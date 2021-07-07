@@ -2,4 +2,4 @@
 
 Solutions to CodingBat problems.
 
-https://codingbat.com
+<a href="https://codingbat.com">codingbat</a>
