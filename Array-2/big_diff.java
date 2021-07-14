@@ -9,7 +9,4 @@ public int bigDiff(int[] nums) {
       min=nums[i];
     }
     return (max-min);
-public class big_diff {
-    
 }
-}  
