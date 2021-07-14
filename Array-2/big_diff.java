@@ -1,4 +1,4 @@
-public int bigDiff(int[] nums) {
+public static int bigDiff(int[] nums) {
     int min,max,i;
     min=nums[0];
     max=nums[0];
