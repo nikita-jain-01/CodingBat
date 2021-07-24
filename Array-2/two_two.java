@@ -1,4 +1,4 @@
-public boolean twoTwo(int[] nums) {
+public static boolean twoTwo(int[] nums) {
     int k=0,i;
     if(nums.length>=2){
       for(i=0;i<nums.length-1;i++){
