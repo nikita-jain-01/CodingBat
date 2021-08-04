@@ -1,4 +1,4 @@
-public String nTwice(String str, int n) {
+public static String nTwice(String str, int n) {
   String res="";
   if(str.length()>=n){
     for(int i=0;i<n;i++){
