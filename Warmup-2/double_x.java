@@ -1,4 +1,4 @@
-boolean doubleX(String str) {
+public static boolean doubleX(String str) {
     int k=0;
     if(str.length()>1){
       for(int i=0;i<str.length()-1;i++){
@@ -14,4 +14,4 @@ boolean doubleX(String str) {
     if(k==1)
       return true;
     return false;
-}  
+}
