@@ -1,4 +1,4 @@
-public String frontTimes(String str, int n) {
+public static String frontTimes(String str, int n) {
     String res="";
     if(str.length()>=3){
       for(int i=1;i<=n;i++)
@@ -10,4 +10,4 @@ public String frontTimes(String str, int n) {
         res=res+str+"";
       return res;
     }
-}  
+}
