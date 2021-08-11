@@ -1,4 +1,4 @@
-public String withoutX2(String str) {
+public static String withoutX2(String str) {
   String res="";
   if(str.length()>=1){
     if(str.charAt(0)!='x')
