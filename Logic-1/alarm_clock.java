@@ -1,4 +1,4 @@
-public String alarmClock(int day, boolean vacation) {
+public static String alarmClock(int day, boolean vacation) {
   if(vacation==false)
     if(day==0 || day==6)
       return "10:00";
